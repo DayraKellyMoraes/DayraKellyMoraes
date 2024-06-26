@@ -1,16 +1,14 @@
-## Hi there 👋
+## seja bem vindo ao meu perfil  🐯
 
-<!--
-**DayraKellyMoraes/DayraKellyMoraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Dayra Kelly
 
-Here are some ideas to get you started:
+Estou estudando na [Alura](https://www.alura.com.br/)
+EStou me desenvolveno na linglagem  Java Script
+Utilizo este espaço para organização e compartilhamento dos meus projetos  desenvolvidos 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## você pode entrar em contato comigo  📧
+
+00001081549452sp@al.educacao.sp.gov.br
+
+![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajMxNTFma24zdnZ1ZzV0aGlubHRlZXYydnJvNHlnZHhoemcxYW8zcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gLQimevKwejcs953Mi/giphy.webp)
